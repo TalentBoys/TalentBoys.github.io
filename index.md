@@ -20,7 +20,7 @@
 
 - 负责 Microsoft Teams 与 HR 系统（SuccessFactors）集成产品的核心开发，后端 Java/Spring，前端 React + Fluent UI
 - **一年内客户 onboarding 数量从 0 增长至 500+ 家**，获得多家大客户好评
-- 主导 AI 方向 POC 探索：2天内完成 Spring AI 与现有框架集成 + Cron Task 框架（参考 OpenClaw 架构），代码量 12000+ 行，领导层 Demo 获好评后拆分为独立项目 Aggas
+- 主导 AI Agent 方向 POC 探索：2天内完成 Spring AI 与现有框架集成 + Cron Task 框架（参考 OpenClaw 架构），代码量 12000+ 行，领导层 Demo 获好评后reorg 为单独项目 Aggas
 - 利用 Vibe Coding 开发多款内部效率工具，获同事广泛好评
 
 ### SAP — 开发工程师
